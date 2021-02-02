@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChappellEberle_Assign2", "..\..\..\..\Downloads\testingAssin2-Chappell (5)\testingAssin2-Chappell\ChappellEberle_Assign2.csproj", "{9E7F9A24-2DE7-4965-8153-E01CA25B8364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E7F9A24-2DE7-4965-8153-E01CA25B8364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7F9A24-2DE7-4965-8153-E01CA25B8364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7F9A24-2DE7-4965-8153-E01CA25B8364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7F9A24-2DE7-4965-8153-E01CA25B8364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F76E6FE-1C40-4519-BA6B-A592B49B31F1}
+	EndGlobalSection
+EndGlobal
